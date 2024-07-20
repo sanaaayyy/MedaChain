@@ -1,6 +1,6 @@
 # MedaChain
 
-This is a web application that uses the blockchain technology. Solidity, JavaScript, web3 and other technologies are used in this project.
+This is a web application that uses the blockchain technology. Solidity, JavaScript and other technologies are used in this project.
 
 It allows doctors, patients, and pharmaceutical companies to organise and verify medical records in a simple and efficient manner. There are numerous advantages to this method.
 
